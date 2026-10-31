@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "alibihour": {
+      "url": "https://alibihour.ambientapp.ai/mcp/grok"
+    }
+  }
+}

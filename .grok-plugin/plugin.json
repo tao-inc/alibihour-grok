@@ -1,0 +1,15 @@
+{
+  "name": "alibihour",
+  "displayName": "Alibi Hour Mystery Game",
+  "version": "1.0.0",
+  "description": "A daily mystery game: a non-violent whodunit with four suspects, one of whom lies in every answer. Ask where each suspect was, catch the story that can't be true, and accuse in as few questions as you can. The case is fixed on the server, so the answer never changes mid-game. Party mode runs a case for friends in one room.",
+  "author": {
+    "name": "The Open Apps, Inc.",
+    "email": "support@theopenapps.com"
+  },
+  "homepage": "https://alibihour.ambientapp.ai/docs",
+  "repository": "https://github.com/tao-inc/alibihour-grok",
+  "license": "MIT",
+  "keywords": ["mystery game", "whodunit", "detective game", "logic puzzle", "daily puzzle", "mystery party game", "deduction", "party game"],
+  "logo": "assets/logo.png"
+}
